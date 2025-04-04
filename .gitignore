@@ -1,0 +1,8 @@
+# Ignore backup files
+*.bak
+*.mdf
+*.ldf
+
+# Ignore SQL Server data dumps
+*.log
+*.tmp
